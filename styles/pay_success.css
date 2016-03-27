@@ -1,0 +1,38 @@
+body{
+	background-color: #f7f7f7;
+}
+.main{}
+header{
+	padding: 210px 0 0 0;
+	background: url(../images/leya_4.png) no-repeat center 90px;
+	background-size: 93px 93px;
+	text-align: center;
+}
+header h1{
+	color: #323232;
+	line-height: 30px;
+	font-size: 20px;
+}
+header h2{
+	color: #323232;
+	line-height: 30px;
+	font-size: 14px;
+}
+section{
+	padding: 50px 0;
+}
+section a{
+	display: block;
+	width: 315px;
+	height: 45px;
+	background-color: #ec6c00;
+	font-size: 20px;
+	color: white;
+	line-height: 45px;
+	margin: 0 auto 17px auto;
+	text-align: center;
+	border-radius: 8px;
+}
+
+
+

@@ -1,0 +1,69 @@
+body{
+	background-color: #f7f7f7;
+}
+.main{
+	padding: 40px 0;
+	text-align: center;
+}
+.main>h1{
+	font-size: 20px;
+	line-height: 30px;
+	color: #ec6c00;
+}
+.main>h2{
+	font-size: 14px;
+	line-height: 20px;
+	color: #323232;
+}
+
+#J-form{
+	padding: 20px 30px;
+}
+#J-form input{
+	border: 1px solid #c8c8c8;
+	height: 24px;
+	padding: 10px;
+	line-height: 24px;
+	border-radius: 8px;
+}
+#J-form>div{
+	width: 300px;
+	margin-bottom: 10px;
+	height: 46px;
+}
+#tel{
+	width: 278px;
+	margin: 0 auto;
+}
+#verify{
+	width: 171px;
+}
+#verify_btn{
+	width: 90px;
+	background-color: #ec6c00;
+	color: white;
+	height: 46px;
+	text-align: center;
+	line-height: 46px;
+	border: none;
+	margin-left: 17px;
+	border-radius: 8px;
+	font-size: 16px;
+}
+#submit{
+	width: 300px;
+	background-color: #c8c8c8;
+	color: white;
+	height: 46px;
+	text-align: center;
+	line-height: 46px;
+	border: none;
+	border-radius: 8px;
+	font-size: 20px;
+}
+.verify_correct{
+	background-color: #ec6c00 !important;
+}
+
+
+
